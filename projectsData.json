@@ -1,7 +1,7 @@
 [
     {
         "title": "Control de Estudio",
-        "img": "/src/assets/projects/controlEstudio_teachers_desktop.webp",
+        "img": "https://raw.githubusercontent.com/Marco90v/ControlEstudio/master/cap/teachers.png",
         "linkGithub": "https://github.com/Marco90v/ControlEstudio",
         "linkLive": "",
         "description": "University System - Study Control",
@@ -12,7 +12,7 @@
     },
     {
         "title": "Orbit360.pe",
-        "img": "/src/assets/projects/orbit360_desktop.webp",
+        "img": "https://raw.githubusercontent.com/Marco90v/Portafolio/master/assets/proyects/orbit360/desktop.webp",
         "linkGithub": "",
         "linkLive": "http://www.orbit360.pe",
         "description": "Multimedia services company",
@@ -23,7 +23,7 @@
     },
     {
         "title": "Hacker News",
-        "img": "/src/assets/projects/hackerNews_desktop.webp",
+        "img": "https://raw.githubusercontent.com/Marco90v/Portafolio/master/assets/proyects/hackerNews/desktop.webp",
         "linkGithub": "https://github.com/Marco90v/hacker-news",
         "linkLive": "https://hacker-news-reign-marco.netlify.app/",
         "description": "Code testing, frontend developer",
@@ -34,7 +34,7 @@
     },
     {
         "title": "Passwallet",
-        "img": "/src/assets/projects/passwallet_desktop.webp",
+        "img": "https://raw.githubusercontent.com/Marco90v/Portafolio/master/assets/proyects/passWallet/desktop.webp",
         "linkGithub": "https://github.com/Marco90v/passwallet",
         "linkLive": "",
         "description": "Password manager",
@@ -45,7 +45,7 @@
     },
     {
         "title": "Porfolio V2",
-        "img": "/src/assets/projects/porfolioV2_desktop.webp",
+        "img": "https://raw.githubusercontent.com/Marco90v/Portafolio/master/assets/proyects/portafolio/desktop.webp",
         "linkGithub": "https://github.com/Marco90v/Portafolio",
         "linkLive": "https://marco90v.github.io/Portafolio/",
         "description": "Second version of my portfolio",
@@ -78,7 +78,7 @@
     },
     {
         "title": "Survey",
-        "img": "/src/assets/projects/encuesta_desktop.webp",
+        "img": "https://raw.githubusercontent.com/Marco90v/Portafolio/master/assets/proyects/appEncuesta/desktop.webp",
         "linkGithub": "https://github.com/Marco90v/appEncuestas",
         "linkLive": "https://marco90v.github.io/appEncuestas/",
         "description": "Internet survey application",
@@ -89,7 +89,7 @@
     },
     {
         "title": "Chat",
-        "img": "/src/assets/projects/chatNodeAngularJs.webp",
+        "img": "https://raw.githubusercontent.com/Marco90v/Portafolio/master/assets/proyects/chat/chatNodeAngularJS.webp",
         "linkGithub": "https://github.com/Marco90v/chat_Nodejs_Angularjs",
         "linkLive": "",
         "description": "Chat Room",
@@ -100,7 +100,7 @@
     },
     {
         "title": "Snake",
-        "img": "/src/assets/projects/snake_desktop.webp",
+        "img": "https://raw.githubusercontent.com/Marco90v/Portafolio/master/assets/proyects/snake/laptop.webp",
         "linkGithub": "https://github.com/Marco90v/culebra",
         "linkLive": "https://marco90v.github.io/culebra/",
         "description": "Snake game",
