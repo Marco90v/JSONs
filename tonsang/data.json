@@ -1,0 +1,13 @@
+{
+    "profile":"img/min-zoimar-lezama.jpg",
+    "gallery":[
+        {"link":"img/1.jpg"},
+        {"link":"img/2.jpg"},
+        {"link":"img/3.jpg"},
+        {"link":"img/4.jpg"},
+        {"link":"img/5.jpg"},
+        {"link":"img/6.jpg"},
+        {"link":"img/7.jpg"},
+        {"link":"img/8.jpg"}
+    ]
+}
