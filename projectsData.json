@@ -1,5 +1,16 @@
 [
     {
+        "title": "Illustrator's portfolio",
+        "img": "https://raw.githubusercontent.com/Marco90v/JSONs/main/imgportfolio/portfolio-zl.webp",
+        "linkGithub": "https://github.com/Marco90v/portfolio-zl",
+        "linkLive": "https://zoimarlezama.vercel.app/",
+        "description": "Artistic illustrations.",
+        "details": "Portfolio of illustrations of an artist, in this website, she shows some of her work as an illustrator, both as drawings and paintings, also shows her social networks and a little of who she is, and has a contact form available to users. This website was made with NextJs, Tailwind, and Vercel.",
+        "author": "Marco Velasquez",
+        "skills": "NextJS, TailwindCSS, Vercel, TypeScript, fetch, HTML",
+        "client": "Zoimar Lezama"
+    },
+    {
         "title": "Control de Estudio",
         "img": "https://raw.githubusercontent.com/Marco90v/ControlEstudio/master/cap/teachers.png",
         "linkGithub": "https://github.com/Marco90v/ControlEstudio",
