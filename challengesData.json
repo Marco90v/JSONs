@@ -1,5 +1,16 @@
 [
     {
+        "title": "Huddle landing page with curved sections",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/huddle-landing-page-with-curved-sections-master/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/huddle-landing-page-with-curved-sections-master",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/huddle-landing-page-with-curved-sections-master/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
         "title": "Ping single column coming soon page",
         "img": "https://raw.githubusercontent.com/Marco90v/fontend-mentor/master/ping-coming-soon-page-master/design/desktop-design.jpg",
         "linkGithub": "https://github.com/Marco90v/fontend-mentor/tree/master/ping-coming-soon-page-master",
