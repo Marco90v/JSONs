@@ -1,5 +1,38 @@
 [
     {
+        "title": "Recipe page",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/recipe-page-main/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/recipe-page-main",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/recipe-page-main/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
+        "title": "Social links profile",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/social-links-profile-main/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/social-links-profile-main",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/social-links-profile-main/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
+        "title": "FAQ accordion",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/faq-accordion-main/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/faq-accordion-main",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/faq-accordion-main/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First, JavaScript",
+        "client": "Personal"
+    },
+    {
         "title": "Newsletter sign-up form with success message",
         "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/newsletter-sign-up-with-success-message-main/design/desktop-preview.jpg",
         "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/newsletter-sign-up-with-success-message-main",
