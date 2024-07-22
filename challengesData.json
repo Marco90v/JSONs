@@ -1,5 +1,126 @@
 [
     {
+        "title": "Pricing component with toggle",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/pricing-component-with-toggle-master/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/pricing-component-with-toggle-master",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/pricing-component-with-toggle-master/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
+        "title": "Coding bootcamp testimonials slider",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/coding-bootcamp-testimonials-slider-master/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/coding-bootcamp-testimonials-slider-master",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/coding-bootcamp-testimonials-slider-master/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
+        "title": "Interactive pricing component",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/interactive-pricing-component-main/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/interactive-pricing-component-main",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/interactive-pricing-component-main/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
+        "title": "Mortgage repayment calculator",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/mortgage-repayment-calculator-main/preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/mortgage-repayment-calculator-main",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/mortgage-repayment-calculator-main/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
+        "title": "Blogr landing page",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/blogr-landing-page-main/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/blogr-landing-page-main",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/blogr-landing-page-main/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
+        "title": "Sunnyside agency landing page",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/sunnyside-agency-landing-page-main/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/sunnyside-agency-landing-page-main",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/sunnyside-agency-landing-page-main/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
+        "title": "Interactive card details form",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/interactive-card-details-form-main/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/interactive-card-details-form-main",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/blog-preview-card-main/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
+        "title": "Blog preview card",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/blog-preview-card-main/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/blog-preview-card-main",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/blog-preview-card-main/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
+        "title": "Notifications page",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/notifications-page-main/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/notifications-page-main",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/notifications-page-main/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
+        "title": "News homepage",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/news-homepage-main/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/news-homepage-main",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/news-homepage-main/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
+        "title": "Age calculator app",
+        "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/age-calculator-app-main/design/desktop-preview.jpg",
+        "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/age-calculator-app-main",
+        "linkLive": "https://marco90v.github.io/frontend-mentor/age-calculator-app-main/",
+        "descriptionv": "Chagenlle - Frontend Mentor",
+        "details": "This is a challenge designed by Frontend Mentor, in order to learn and improve web programming skills. The solution must be visualized as similar as possible to the image provided as the basis of the design, both for Mobile and Desktop. You can make use of any of the existing technologies to achieve the final result, as well as make use of the various platforms to deploy the solution.",
+        "author": "Marco Velasquez",
+        "skills": "HTML, CSS, Flex, Grid, JavaScript, Mobil First",
+        "client": "Personal"
+    },
+    {
         "title": "Contact form",
         "img": "https://raw.githubusercontent.com/Marco90v/frontend-mentor/master/contact-form-main/design/desktop-preview.jpg",
         "linkGithub": "https://github.com/Marco90v/frontend-mentor/tree/master/contact-form-main",
