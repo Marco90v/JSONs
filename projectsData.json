@@ -46,9 +46,9 @@
 		},
 		{
 			"title": "Passwallet",
-			"img": "https://raw.githubusercontent.com/Marco90v/Portafolio/master/assets/proyects/passWallet/desktop.webp",
+			"img": "https://i.imgur.com/SXsuRZo.png",
 			"linkGithub": "https://github.com/Marco90v/passwallet",
-			"linkLive": "",
+			"linkLive": "https://marco90v.github.io/passwallet/",
 			"description": "Password manager",
 			"details": "This is a personal project started to store my personal passwords for access to different web platforms, for this I used React with BootStrap for the design part and Firebase for the authentication and storage of the information, and the \"crypto-js\" library for the encryption of the data. The application not only stores password, but also username, email, bank details, cryptocurrency secret phrases, among others, it also generates complex passwords in case you do not need it, this function does not need to log in. The data can be edited and deleted.",
 			"author": "Marco Velasquez",
@@ -169,9 +169,9 @@
 		},
 		{
 			"title": "Passwallet",
-			"img": "https://raw.githubusercontent.com/Marco90v/Portafolio/master/assets/proyects/passWallet/desktop.webp",
+			"img": "https://i.imgur.com/SXsuRZo.png",
 			"linkGithub": "https://github.com/Marco90v/passwallet",
-			"linkLive": "",
+			"linkLive": "https://marco90v.github.io/passwallet/",
 			"description": "Gestor de contraseñas",
 			"details": "Este es un proyecto personal creado para almacenar mis contraseñas personales para acceder a diferentes plataformas web. Utilicé React con Bootstrap para el diseño y Firebase para la autenticación y almacenamiento de información, además de la librería \"crypto-js\" para la encriptación de datos. La aplicación no solo almacena contraseñas, sino también nombres de usuario, correos electrónicos, datos bancarios, frases secretas de criptomonedas, entre otros. También genera contraseñas complejas en caso de necesitarlo, sin requerir inicio de sesión. Los datos se pueden editar y eliminar.",
 			"author": "Marco Velasquez",
