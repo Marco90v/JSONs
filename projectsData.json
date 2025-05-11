@@ -1,6 +1,17 @@
 {
 	"en":[
 		{
+			"title": "ShortUrl",
+			"img": "https://raw.githubusercontent.com/Marco90v/shortUrl/refs/heads/main/screenshots/dashboard.webp",
+			"linkGithub": "https://github.com/Marco90v/shortUrl",
+			"linkLive": "https://c-url.netlify.app/",
+			"description": "Acortador de URLs",
+			"details": "Este es un proyecto personal, el objetivo era crear un servicio de Acortador de URLs, que permita a los usuarios crear y compartir URLs cortas, así como a los usuarios registrarse y obtener acceso a sus URLs cortas. El servicio se basa en la tecnología de Firebase. El proyecto se ha desarrollado utilizando Vite, React, TypeScript, Chakra-UI, Zod, Zustand, Firebase y Vercel.", 
+			"author": "Marco Velasquez",
+			"skills": "Vite, React, TypeScript, Chrakra-UI, Zod, Zustand, Firebase, Vercel",
+			"client": "Personal"
+		},
+		{
 			"title": "Illustrator's portfolio",
 			"img": "https://raw.githubusercontent.com/Marco90v/JSONs/main/imgportfolio/portfolio-zl.webp",
 			"linkGithub": "https://github.com/Marco90v/portfolio-zl",
@@ -123,6 +134,17 @@
 		}
 	],
 	"es":[
+		{
+			"title": "ShortUrl",
+			"img": "https://raw.githubusercontent.com/Marco90v/shortUrl/refs/heads/main/screenshots/dashboard.webp",
+			"linkGithub": "https://github.com/Marco90v/shortUrl",
+			"linkLive": "https://c-url.netlify.app/",
+			"description": "URL Shortene",
+			"details": "This is a personal project, the goal was to create a URL Shortener service, which allows users to create and share short URLs, as well as users to register and get access to their short URLs. The service is based on Firebase technology. The project has been developed using Vite, React, TypeScript, Chakra-UI, Zod, Zustand, Firebase, and Vercel.",
+			"author": "Marco Velasquez",
+			"skills": "Vite, React, TypeScript, Chrakra-UI, Zod, Zustand, Firebase, Vercel",
+			"client": "Personal"
+		},
 		{
 			"title": "Portafolio de Ilustradora",
 			"img": "https://raw.githubusercontent.com/Marco90v/JSONs/main/imgportfolio/portfolio-zl.webp",
