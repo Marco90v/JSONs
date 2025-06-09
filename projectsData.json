@@ -1,14 +1,25 @@
 {
 	"en":[
 		{
+			"title": "Kanban Project Manager",
+			"img": "https://raw.githubusercontent.com/Marco90v/kanban-project-manager/main/screenshots/dashboard.png",
+			"linkGithub": "https://github.com/Marco90v/kanban-project-manager",
+			"linkLive": "https://my-kanban-project.netlify.app/dashboard",
+			"description": "Kanban Project Manager",
+			"details": "A hands-on project I built to deepen and demonstrate my skills in modern front-end development. This responsive web app replicates a Kanban-style task manager, enabling users to organize, prioritize, and move tasks across columns using drag-and-drop functionality.",
+			"author": "Marco Velasquez",
+			"skills": "Vite, React, TypeScript, Chrakra-UI, DnD-kit, Zod, Zustand, Netlify",
+			"client": "Personal"
+		},
+		{
 			"title": "ShortUrl",
 			"img": "https://raw.githubusercontent.com/Marco90v/shortUrl/refs/heads/main/screenshots/dashboard.webp",
 			"linkGithub": "https://github.com/Marco90v/shortUrl",
 			"linkLive": "https://c-url.netlify.app/",
 			"description": "URL Shortene",
-			"details": "This is a personal project, the goal was to create a URL Shortener service, which allows users to create and share short URLs, as well as users to register and get access to their short URLs. The service is based on Firebase technology. The project has been developed using Vite, React, TypeScript, Chakra-UI, Zod, Zustand, Firebase, and Vercel.",
+			"details": "LinkShortener App is a fullstack web application for shortening URLs and tracking usage statistics. Built as a solo project, it showcases advanced form validation, authentication, and data visualization features. The app supports custom alias creation, real-time usage stats, and user account management. Developed using React, TypeScript, Zustand, Chakra UI, and Firebase with Zod validation.",
 			"author": "Marco Velasquez",
-			"skills": "Vite, React, TypeScript, Chrakra-UI, Zod, Zustand, Firebase, Vercel",
+			"skills": "Vite, React, TypeScript, Chrakra-UI, Zod, Zustand, Firebase, Netlify",
 			"client": "Personal"
 		},
 		{
@@ -61,7 +72,7 @@
 			"linkGithub": "https://github.com/Marco90v/passwallet",
 			"linkLive": "https://marco90v.github.io/passwallet/",
 			"description": "Password manager",
-			"details": "This is a personal project started to store my personal passwords for access to different web platforms, for this I used React with BootStrap for the design part and Firebase for the authentication and storage of the information, and the \"crypto-js\" library for the encryption of the data. The application not only stores password, but also username, email, bank details, cryptocurrency secret phrases, among others, it also generates complex passwords in case you do not need it, this function does not need to log in. The data can be edited and deleted.",
+			"details": "Passwallet is a solo-developed web application designed as a secure password manager. It securely stores all credentials in one place, protected by a master password and SHA256 encryption. This project was a fullstack technical challenge where I worked with React and TypeScript on the frontend, and integrated Firebase as a serverless backend. I implemented encryption using crypto-js, handled global state with Zustand, and built the UI with TailwindCSS for a sleek, responsive experience. The build pipeline is optimized using Rspack, providing faster development iterations.",
 			"author": "Marco Velasquez",
 			"skills": "React, UseContext, JavaScript, Encrypted, Firebase, BootStrap, CSS, HTML",
 			"client": "Personal"
@@ -135,12 +146,23 @@
 	],
 	"es":[
 		{
+			"title": "Kanban Project Manager",
+			"img": "https://raw.githubusercontent.com/Marco90v/kanban-project-manager/main/screenshots/dashboard.png",
+			"linkGithub": "https://github.com/Marco90v/kanban-project-manager",
+			"linkLive": "https://my-kanban-project.netlify.app/dashboard",
+			"description": "Kanban Project Manager",
+			"details": "Un proyecto práctico que desarrollé con el objetivo de reforzar y demostrar mis conocimientos en desarrollo front-end moderno. Esta aplicación web responsiva simula un gestor de tareas estilo Kanban, permitiendo a los usuarios mover tarjetas entre columnas mediante una experiencia fluida de arrastrar y soltar.",
+			"author": "Marco Velasquez",
+			"skills": "Vite, React, TypeScript, Chrakra-UI, DnD-kit, Zod, Zustand, Netlify",
+			"client": "Personal"
+		},
+		{
 			"title": "ShortUrl",
 			"img": "https://raw.githubusercontent.com/Marco90v/shortUrl/refs/heads/main/screenshots/dashboard.webp",
 			"linkGithub": "https://github.com/Marco90v/shortUrl",
 			"linkLive": "https://c-url.netlify.app/",
 			"description": "Acortador de URLs",
-			"details": "Este es un proyecto personal, el objetivo era crear un servicio de Acortador de URLs, que permita a los usuarios crear y compartir URLs cortas, así como a los usuarios registrarse y obtener acceso a sus URLs cortas. El servicio se basa en la tecnología de Firebase. El proyecto se ha desarrollado utilizando Vite, React, TypeScript, Chakra-UI, Zod, Zustand, Firebase y Vercel.", 
+			"details": "LinkShortener App es una aplicación web que permite acortar enlaces y visualizar estadísticas detalladas sobre su uso. Este proyecto personal fue desarrollado de manera fullstack con enfoque en rendimiento, usabilidad y validación de formularios. Incluye autenticación de usuarios mediante Firebase, gestión de enlaces con alias personalizados, panel estadístico y funciones administrativas como la modificación de contraseña. El stack incluye React, TypeScript, Zustand, Chakra UI y validaciones con Zod.", 
 			"author": "Marco Velasquez",
 			"skills": "Vite, React, TypeScript, Chrakra-UI, Zod, Zustand, Firebase, Vercel",
 			"client": "Personal"
@@ -195,7 +217,7 @@
 			"linkGithub": "https://github.com/Marco90v/passwallet",
 			"linkLive": "https://marco90v.github.io/passwallet/",
 			"description": "Gestor de contraseñas",
-			"details": "Este es un proyecto personal creado para almacenar mis contraseñas personales para acceder a diferentes plataformas web. Utilicé React con Bootstrap para el diseño y Firebase para la autenticación y almacenamiento de información, además de la librería \"crypto-js\" para la encriptación de datos. La aplicación no solo almacena contraseñas, sino también nombres de usuario, correos electrónicos, datos bancarios, frases secretas de criptomonedas, entre otros. También genera contraseñas complejas en caso de necesitarlo, sin requerir inicio de sesión. Los datos se pueden editar y eliminar.",
+			"details": "Passwallet es una aplicación web desarrollada de forma independiente como gestor de contraseñas. Su objetivo es centralizar el almacenamiento de credenciales bajo una capa de seguridad robusta mediante cifrado SHA256 y una contraseña maestra. El desarrollo de este proyecto representó un desafío técnico completo, abarcando tanto el frontend como el backend. Aprendí a integrar Firebase como backend sin servidor, empleando TypeScript para garantizar seguridad de tipos, y optimicé la construcción del proyecto utilizando Rspack. Además, implementé un sistema de encriptación con crypto-js, gestioné estado global con Zustand, y creé una experiencia de usuario moderna y responsiva con React y TailwindCSS.",
 			"author": "Marco Velasquez",
 			"skills": "React, UseContext, JavaScript, Encrypted, Firebase, BootStrap, CSS, HTML",
 			"client": "Personal"
