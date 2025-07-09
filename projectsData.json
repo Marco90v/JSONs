@@ -34,14 +34,14 @@
 			"client": "Zoimar Lezama"
 		},
 		{
-			"title": "Study control",
-			"img": "https://raw.githubusercontent.com/Marco90v/ControlEstudio/master/cap/teachers.png",
-			"linkGithub": "https://github.com/Marco90v/ControlEstudio",
+			"title": "Academic Control System",
+			"img": "https://raw.githubusercontent.com/Marco90v/ControlEstudio/newDesign2/screenshots/Students.webp",
+			"linkGithub": "https://github.com/Marco90v/ControlEstudio/tree/newDesign2",
 			"linkLive": "https://control-estudio.vercel.app/",
 			"description": "University System - Study Control",
 			"details": "This is a personal project, the final was to practice my skills and expand my knowledge in other areas, the application has a backend in express with JWT and MySQL and a frontend in react, with styled-components and redeux, has path protection and user roles, the roles are administration, teacher, student. The general functions are CRUD, classes, professions, people, students, teachers and notes. Only the data that were inserted are added and the indicated data are modified or deleted, if a student is added but a profession is not assigned, this information is omitted, if the classes of the teachers are edited only those data are modified omitting the personal data of the same one. It also has an action confirmation system. Use of global and local states, use of localStorage to store refused data and use of RTK.",
 			"author": "Marco Velasquez",
-			"skills": "React, Styled-Components, Redux, RTK, React-Router, TypeScript, NodeJs, Express, JWT, MySQL, Dotenv",
+			"skills": "Vite, TypeScript, SWC, React with React Router, React Hook Form, Zod, Zustand, TailwindCSS, shadcn/ui, icons with Lucide‑React, Supabase (authentication + database)",
 			"client": "Personal"
 		},
 		{
@@ -164,7 +164,7 @@
 			"description": "Acortador de URLs",
 			"details": "LinkShortener App es una aplicación web que permite acortar enlaces y visualizar estadísticas detalladas sobre su uso. Este proyecto personal fue desarrollado de manera fullstack con enfoque en rendimiento, usabilidad y validación de formularios. Incluye autenticación de usuarios mediante Firebase, gestión de enlaces con alias personalizados, panel estadístico y funciones administrativas como la modificación de contraseña. El stack incluye React, TypeScript, Zustand, Chakra UI y validaciones con Zod.", 
 			"author": "Marco Velasquez",
-			"skills": "Vite, React, TypeScript, Chrakra-UI, Zod, Zustand, Firebase, Vercel",
+			"skills": "Vite, React, TypeScript, Chrakra-UI, Zod, Zustand, Firebase, netlify",
 			"client": "Personal"
 		},
 		{
@@ -179,14 +179,14 @@
 			"client": "Zoimar Lezama"
 		},
 		{
-			"title": "Control de Estudio",
-			"img": "https://raw.githubusercontent.com/Marco90v/ControlEstudio/master/cap/teachers.png",
-			"linkGithub": "https://github.com/Marco90v/ControlEstudio",
+			"title": "Sistema de Control Académico",
+			"img": "https://raw.githubusercontent.com/Marco90v/ControlEstudio/newDesign2/screenshots/Students.webp",
+			"linkGithub": "https://github.com/Marco90v/ControlEstudio/tree/newDesign2",
 			"linkLive": "https://control-estudio.vercel.app/",
 			"description": "Sistema Universitario - Control de Estudios",
 			"details": "Este es un proyecto personal, el objetivo era practicar mis habilidades y expandir mis conocimientos en otras áreas. La aplicación tiene un backend en Express con JWT y MySQL y un frontend en React, con Styled-Components y Redux. Cuenta con protección de rutas y roles de usuario: administración, profesor y estudiante. Las funciones principales son CRUD de clases, profesiones, personas, estudiantes, profesores y notas. Solo se agregan datos que fueron insertados, y los datos indicados se pueden modificar o eliminar. Si se agrega un estudiante sin asignar una profesión, esta información se omite. Si se editan las clases de los profesores, solo se modifican esos datos sin afectar los datos personales. También tiene un sistema de confirmación de acciones, uso de estados globales y locales, almacenamiento en localStorage para datos rechazados y uso de RTK.",
 			"author": "Marco Velasquez",
-			"skills": "React, Styled-Components, Redux, RTK, React-Router, TypeScript, NodeJs, Express, JWT, MySQL, Dotenv",
+			"skills": "Vite, TypeScript, SWC, React with React Router, React Hook Form, Zod, Zustand, TailwindCSS, shadcn/ui, icons with Lucide‑React, Supabase (authentication + database)",
 			"client": "Personal"
 		},
 		{
